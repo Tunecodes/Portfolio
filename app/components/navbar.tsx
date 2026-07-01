@@ -13,7 +13,7 @@ export function Navbar() {
         >
           <div className="relative w-7.5 h-7.5 overflow-hidden rounded-full dark:bg-zinc-100">
             <Image
-              src="/user.png"
+              src="/2090.jpg"
               alt="Profile"
               fill
               sizes="22px"
@@ -38,7 +38,7 @@ export function Navbar() {
             Projects
           </Link>
           <a
-            href="mailto:your.email@example.com"
+            href="mailto:lintun2003@gmail.com"
             className="hover:text-black dark:hover:text-zinc-50 transition-colors"
           >
             Contact

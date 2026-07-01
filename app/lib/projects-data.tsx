@@ -24,19 +24,17 @@ export const PROJECTS: Project[] = [
     tags: ["React", "CSS"],
   },
   {
-    title: "Sequelize Activity Seeder",
-    description:
-      "Structured database seeding system with nested activities and sub-activities using Sequelize ORM.",
-    link: "https://github.com/yourname/sequelize-seeder",
-    category: "Backend",
-    tags: ["Node.js", "Sequelize", "SQLite"],
+    title: "Pokimemory",
+    description: "Pokemon memory card time to test how good your memory is.",
+    link: "https://poki-memory.netlify.app/",
+    category: "Frontend",
+    tags: ["React", "CSS"],
   },
   {
-    title: "FFXIV Helper Tool",
-    description:
-      "Utility app to track progression and optimize farming routes in Final Fantasy XIV.",
-    link: "https://github.com/yourname/ffxiv-tool",
+    title: "Resume Builder",
+    description: "A react project that help build your resume.",
+    link: "https://resume-builderproject00.netlify.app/",
     category: "Game Tools",
-    tags: ["React", "Node.js", "API"],
+    tags: ["React", "CSS"],
   },
 ];

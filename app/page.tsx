@@ -14,11 +14,11 @@ export default function Home() {
         <section className="flex flex-col items-start gap-6">
           <div className="relative h-20 w-20 overflow-hidden rounded-full border border-zinc-200 dark:border-zinc-800">
             <Image
-              src="/api/placeholder/80/80"
+              src="/tune.jpg"
               alt="Your Profile"
-              fill
-              className="object-cover"
-              priority
+              width={200}
+              height={200}
+              className="object-cover scale-125 -translate-y-8 -translate-x-1"
             />
           </div>
 
