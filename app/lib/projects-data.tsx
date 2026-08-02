@@ -8,11 +8,19 @@ type Project = {
 
 export const PROJECTS: Project[] = [
   {
+    title: "Job Pilot",
+    description:
+      "Job posting that use ai to help you find your next job! Still in progress.",
+    link: "https://job-pilot-self.vercel.app/",
+    category: "Fullstack",
+    tags: ["TypeScript", "Tailwind", "Clerk Auth", "Next.js", "Postgresql"],
+  },
+  {
     title: "Meat Inventory",
     description:
       "A meat inventory system that helps you store, organize, and quickly find the meats you need.",
     link: "https://meat-inventory.onrender.com/",
-    category: "Web",
+    category: "Fullstack",
     tags: ["JavaScript", "Scss", "EJS", "Bootstrap", "Express", "Postgresql"],
   },
   {
