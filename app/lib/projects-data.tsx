@@ -19,7 +19,7 @@ export const PROJECTS: Project[] = [
     title: "Meat Inventory",
     description:
       "A meat inventory system that helps you store, organize, and quickly find the meats you need.",
-    link: "https://meat-inventory.onrender.com/",
+    link: "https://meat-inventory.tune-web.duckdns.org/",
     category: "Fullstack",
     tags: ["JavaScript", "Scss", "EJS", "Bootstrap", "Express", "Postgresql"],
   },
